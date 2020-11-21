@@ -1,0 +1,91 @@
+body {
+	background color: rgb(230,230,230);
+	color: rgb(30,30,30);
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	font font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+}
+h2,h3,h4 {
+	font font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight:700;
+}
+
+a {
+	color: rgba(51,181,255,0.5);
+
+} 
+a:hover {
+	color :black;
+
+}
+img {
+	max-width: 88%;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Banner {
+	padding: 40px;
+	margin:20px;
+	margin-bottom: 50px;
+	border-bottom: 1px solid;
+}
+.img-circle {
+	border-radius: 50%;
+	width: 10%;
+	max-height: auto;
+	margin: 0px
+}
+
+#list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+#list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+#list-inline i {
+	font-size: 50px;
+}
+
+.box {
+	padding: 30px;
+	display: flex;	
+	align-items: center;
+	justify-content: space-around;
+
+}
+
+.texte {
+	list-style:none;
+	line-height: 25px;
+	border-left: 2px solid #FF9933
+
+}
+
+.Case {
+	background: white;
+	padding: 50px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 4px;
+}
+
+#reseaux {
+	background: white;
+	padding: 50px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 4px;
+	text-align: center;
+}
+
